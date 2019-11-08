@@ -22,7 +22,7 @@ SRC is here
 
 Out came SRC technologies  
 
-.. figure:: images/DSCN1117121.jpg
+.. figure:: images/DSCN1117121.JPG
     :scale: 60%
 
     from his mouth or nose?
